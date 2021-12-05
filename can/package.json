@@ -1,0 +1,21 @@
+{
+  "name": "can",
+  "version": "0.0.1",
+  "description": "",
+  "main": "can.js",
+  "scripts": {
+    "start": "node can.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.9"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
