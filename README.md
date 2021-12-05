@@ -8,7 +8,7 @@ Beni ifşalamaya çalışan ama sağtık ögeyi denetle attıgı sslerden sadece
 Ben kod düzenler kullanırım bunda hemfikiriz. ama kendisi benim bu bilgimle yapamadıklarını kıskanması hiçbir sunucuya bot yapamaması komik yani ne oldu kimse bot mu yaptırmıyor sana  ve böyle birşey yapması komik kendisi bile milletden alıp embed degiştirip yapması komik birde kendini üstlerde yükseklerde görmesi komik
 
 
-Birisi githubda paylaştıgı mod botunun gelişmişi kimseyle paylaşmamış  biriside invite botu
+**Birisi githubda paylaştıgı mod botunun gelişmişi kimseyle paylaşmamış  biriside invite botu HADİ GÖRÜŞÜRÜZ
 
 
 Benden owslanın botlarının hatasızını istiyor kendisi wency nin botlarını da benden istedi. hadi iyi forumlar bu arkadaşa kendisine verdigim son primdir.
@@ -16,4 +16,4 @@ Benden owslanın botlarının hatasızını istiyor kendisi wency nin botların�
 Kendisine itibar etmeyin kaale almayın hadi görüşürüz seviliyorsunuz <3
 
 
-NOT: KENDİSİ SERENDİA SUNUCUSUNDAKİ BÜTÜN SİSTEMLER İLE DALGA GEÇİYOR FAKAT YAN HESAPLA SERENDİA SİTESİNDEN KODLARI ALIP KULLANIYOR HABERİNİZ OLSUN.
+**NOT: **KENDİSİ SERENDİA SUNUCUSUNDAKİ BÜTÜN SİSTEMLER İLE DALGA GEÇİYOR FAKAT YAN HESAPLA SERENDİA SİTESİNDEN KODLARI ALIP KULLANIYOR HABERİNİZ OLSUN.
