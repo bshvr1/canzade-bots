@@ -14,3 +14,9 @@ Kendisine itibar etmeyin kaale almayın hadi görüşürüz seviliyorsunuz <3
 
 
 **NOT: **KENDİSİ SERENDİA SUNUCUSUNDAKİ BÜTÜN SİSTEMLER İLE DALGA GEÇİYOR FAKAT YAN HESAPLA SERENDİA SİTESİNDEN KODLARI ALIP KULLANIYOR HABERİNİZ OLSUN.**
+
+
+
+HA BU ARADA MOD BOTUNDAKİ ÇOĞU KOMUT STARK Stârk#0773 dan çalıntıdır haberiniz olsun en başta ekip komutu https://serendia.xyz/codes/view/6094d19b8eff53c4971f58ad buradan bakarsınız :D
+
+
