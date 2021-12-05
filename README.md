@@ -14,3 +14,6 @@ Birisi githubda paylaştıgı mod botunun gelişmişi kimseyle paylaşmamış  b
 Benden owslanın botlarının hatasızını istiyor kendisi wency nin botlarını da benden istedi. hadi iyi forumlar bu arkadaşa kendisine verdigim son primdir.
 
 Kendisine itibar etmeyin kaale almayın hadi görüşürüz seviliyorsunuz <3
+
+
+NOT: KENDİSİ SERENDİA SUNUCUSUNDAKİ BÜTÜN SİSTEMLER İLE DALGA GEÇİYOR FAKAT YAN HESAPLA SERENDİA SİTESİNDEN KODLARI ALIP KULLANIYOR HABERİNİZ OLSUN.
