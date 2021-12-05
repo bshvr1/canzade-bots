@@ -5,7 +5,7 @@ tükürdügünü yalayan zade
 
 Beni ifşalamaya çalışan ama sağtık ögeyi denetle attıgı sslerden sadece 1 2 tanesi hariç yalan yok
 
-Ben kod düzenler kullanırım bunda hemfikiriz. ama kendisi benim bu bilgimle yapamadıklarını kıskanması hiçbir sunucuya bot yapaması komik yani ne oldu kimse bot mu yaptırmıyor sana  ve böyle birşey yapması komik kendisi bile milletden alıp embed degiştirip yapması komik birde kendini üstlerde yükseklerde görmesi komik kendisi
+Ben kod düzenler kullanırım bunda hemfikiriz. ama kendisi benim bu bilgimle yapamadıklarını kıskanması hiçbir sunucuya bot yapamaması komik yani ne oldu kimse bot mu yaptırmıyor sana  ve böyle birşey yapması komik kendisi bile milletden alıp embed degiştirip yapması komik birde kendini üstlerde yükseklerde görmesi komik
 
 
 Birisi githubda paylaştıgı mod botunun gelişmişi kimseyle paylaşmamış  biriside invite botu
